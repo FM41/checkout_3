@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'views/app_styles.dart';
 import 'repositries/order_repository.dart';
-import 'repositries/pricing_repository.dart';
 
 enum BreadType { white, wheat, wholemeal }
 
