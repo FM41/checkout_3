@@ -31,7 +31,6 @@ class OrderScreen extends StatefulWidget {
     return _OrderScreenState();
   }
 }
-
 class _OrderScreenState extends State<OrderScreen> {
   late final OrderRepository _orderRepository;
   final TextEditingController _notesController = TextEditingController();
